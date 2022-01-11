@@ -1,0 +1,6 @@
+wordcount/StreamsWordCount.java
+ wordcount.StreamsWordCount
+wordcount/TestLogging.java
+ wordcount.TestLogging
+wordcount/FavouriteCount.java
+ wordcount.FavouriteCount
